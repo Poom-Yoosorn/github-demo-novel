@@ -1,2 +1,3 @@
 chapter1
-    poom met A,B,C
+    poom met A,B,C,
+    chapter1 = D,E,F
