@@ -1,0 +1,3 @@
+A = 18 Years old
+B = 22 Years old
+c = 45 Years old
